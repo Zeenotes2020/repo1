@@ -1,0 +1,5 @@
+
+email,subject,message
+z@z.com,ZZZZ,asasasas
+
+x@x.com,XXXXX,This is Jebrish
